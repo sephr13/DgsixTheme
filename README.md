@@ -11,3 +11,4 @@ Step 6: Click on Load missing CSS themes and just Turn the Theme on
 
 
 if you had any problems let me know :)
+![Screenshot 2024-08-07 at 3 03 15 PM Large](https://github.com/user-attachments/assets/67944bf3-6921-4a7b-a972-052e9a9988c0)
